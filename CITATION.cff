@@ -1,11 +1,23 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it.
 title: 'Project XIA: CS-SHAP feature selection for multiclass IoT/IIoT intrusion detection'
+version: 1.0.0
+date-released: 2026-08-18
 type: software
+abstract: >-
+  Reproducibility code, trained models, and derived results for class-sensitive
+  SHAP feature selection in multiclass IoT/IIoT intrusion detection using the
+  Edge-IIoTset dataset.
 authors:
   - family-names: Abdullai
     given-names: Abdul Hafiz
+    affiliation: Independent Researcher, Ghana
     orcid: https://orcid.org/0009-0001-6995-0747
 license: MIT
 repository-code: https://github.com/Danjummah/project-xia
-keywords: [IoT security, intrusion detection, explainable AI, SHAP, feature selection]
+keywords:
+  - IoT security
+  - intrusion detection
+  - explainable artificial intelligence
+  - SHAP
+  - feature selection
