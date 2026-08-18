@@ -1,5 +1,7 @@
 # Project XIA
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22003473.svg)](https://doi.org/10.5281/zenodo.22003473)
+
 Reproducibility package for class-sensitive SHAP (CS-SHAP) feature selection in multiclass IoT/IIoT intrusion detection. The full Kaggle analysis is preserved in a cleaned notebook with outputs removed; derived result tables and fitted final models are included.
 
 ## Main result
@@ -35,7 +37,7 @@ digest. The smaller label encoder is stored normally.
 
 ## Data and methodological boundary
 
-The source dataset is not redistributed; obtain it from its original provider and follow its terms. The locked test set must never be used for tuning, selection, or method choice. Before journal submission, replace manuscript and citation placeholders with permanent GitHub/Zenodo and precise dataset citation URLs.
+The source dataset is not redistributed; obtain it from its original provider and follow its terms. The locked test set must never be used for tuning, selection, or method choice. The archived v1.0.0 package is permanently available at [https://doi.org/10.5281/zenodo.22003473](https://doi.org/10.5281/zenodo.22003473).
 
 ## Security
 
