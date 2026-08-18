@@ -1,0 +1,43 @@
+feature,class_balanced_frequency,class_balanced_mean_rank,minority_frequency,minority_mean_rank,selected,selection_role
+tcp.connection.syn,0.6,15.8,1.0,13.2,True,Minority-protective addition
+udp.time_delta,0.0,20.2,1.0,6.4,True,Minority-protective addition
+udp.port,0.0,22.4,1.0,8.2,True,Minority-protective addition
+arp.opcode,0.0,23.0,1.0,12.2,True,Minority-protective addition
+icmp.transmit_timestamp,0.0,26.6,1.0,10.6,True,Minority-protective addition
+tcp.dstport,1.0,1.8,1.0,3.6,True,Stable class-balanced core
+tcp.ack,1.0,2.0,0.6,14.8,True,Stable class-balanced core
+tcp.srcport,1.0,2.2,1.0,2.0,True,Stable class-balanced core
+http.referer,1.0,4.0,0.2,19.6,True,Stable class-balanced core
+tcp.len,1.0,5.0,1.0,1.0,True,Stable class-balanced core
+udp.stream,1.0,6.0,0.2,16.8,True,Stable class-balanced core
+mqtt.conack.flags,1.0,7.0,0.0,22.0,True,Stable class-balanced core
+http.request.method,1.0,8.2,1.0,8.8,True,Stable class-balanced core
+icmp.seq_le,1.0,8.8,1.0,5.6,True,Stable class-balanced core
+http.request.version,1.0,10.0,1.0,6.8,True,Stable class-balanced core
+tcp.seq,1.0,11.4,0.0,21.8,True,Stable class-balanced core
+icmp.checksum,1.0,11.6,1.0,3.8,True,Stable class-balanced core
+tcp.flags,1.0,13.2,1.0,9.4,True,Stable class-balanced core
+tcp.ack_raw,1.0,13.8,0.8,15.2,True,Stable class-balanced core
+tcp.connection.rst,0.0,16.8,0.0,17.6,False,Not selected
+mqtt.protoname,0.4,17.0,0.0,25.2,False,Not selected
+tcp.checksum,0.0,17.0,0.2,17.2,False,Not selected
+dns.qry.name,0.0,20.4,0.0,24.0,False,Not selected
+http.content_length,0.0,20.4,0.0,26.4,False,Not selected
+tcp.connection.fin,0.0,22.8,0.0,26.4,False,Not selected
+mqtt.topic,0.0,24.8,0.0,26.4,False,Not selected
+tcp.connection.synack,0.0,25.8,0.0,26.4,False,Not selected
+arp.hw.size,0.0,28.4,0.0,21.4,False,Not selected
+tcp.flags.ack,0.0,28.8,0.0,24.6,False,Not selected
+dns.qry.name.len,0.0,30.0,0.0,19.0,False,Not selected
+http.response,0.0,30.8,0.0,26.4,False,Not selected
+mqtt.hdrflags,0.0,32.2,0.0,26.4,False,Not selected
+mqtt.conflag.cleansess,0.0,32.6,0.0,26.4,False,Not selected
+mqtt.conflags,0.0,32.6,0.0,26.4,False,Not selected
+dns.qry.qu,0.0,33.0,0.0,26.4,False,Not selected
+dns.retransmission,0.0,33.0,0.0,26.4,False,Not selected
+dns.retransmit_request,0.0,33.0,0.0,26.4,False,Not selected
+mqtt.len,0.0,33.0,0.0,26.4,False,Not selected
+mqtt.msgtype,0.0,33.0,0.0,26.4,False,Not selected
+mqtt.proto_len,0.0,33.0,0.0,26.4,False,Not selected
+mqtt.topic_len,0.0,33.0,0.0,26.4,False,Not selected
+mqtt.ver,0.0,33.0,0.0,26.4,False,Not selected

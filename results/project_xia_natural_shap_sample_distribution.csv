@@ -1,0 +1,16 @@
+,sample_count,sample_percentage
+Normal,898,14.967
+DDoS_UDP,579,9.65
+DDoS_ICMP,539,8.983
+Ransomware,435,7.25
+DDoS_TCP,409,6.817
+Vulnerability_scanner,401,6.683
+SQL_injection,395,6.583
+DDoS_HTTP,393,6.55
+Backdoor,390,6.5
+Password,388,6.467
+Uploading,383,6.383
+Port_Scanning,372,6.2
+XSS,348,5.8
+Fingerprinting,53,0.883
+MITM,17,0.283
