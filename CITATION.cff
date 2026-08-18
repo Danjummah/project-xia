@@ -3,6 +3,7 @@ message: If you use this software, please cite it.
 title: 'Project XIA: CS-SHAP feature selection for multiclass IoT/IIoT intrusion detection'
 version: 1.0.0
 date-released: 2026-08-18
+doi: 10.5281/zenodo.22003473
 type: software
 abstract: >-
   Reproducibility code, trained models, and derived results for class-sensitive
