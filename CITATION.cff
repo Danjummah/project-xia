@@ -1,18 +1,17 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it.
-title: 'Project XIA: CS-SHAP feature selection for multiclass IoT/IIoT intrusion detection'
-version: 1.0.0
-date-released: 2026-08-18
-doi: 10.5281/zenodo.22003473
+title: 'Project XIA: Minority-aware stable SHAP feature selection across Edge-IIoTset and TON_IoT'
+version: 2.0.0
+date-released: 2026-08-19
 type: software
 abstract: >-
-  Reproducibility code, trained models, and derived results for class-sensitive
-  SHAP feature selection in multiclass IoT/IIoT intrusion detection using the
-  Edge-IIoTset dataset.
+  Reproducibility code, notebooks, audit outputs, and derived results for
+  minority-aware stable SHAP feature selection in multiclass IoT/IIoT intrusion
+  detection using Edge-IIoTset and TON_IoT.
 authors:
   - family-names: Abdullai
     given-names: Abdul Hafiz
-    affiliation: Independent Researcher, Ghana
+    affiliation: Ghana Education Service, Asikuma-Odoben-Brakwa District Education Directorate, Ghana
     orcid: https://orcid.org/0009-0001-6995-0747
 license: MIT
 repository-code: https://github.com/Danjummah/project-xia
@@ -22,3 +21,7 @@ keywords:
   - explainable artificial intelligence
   - SHAP
   - feature selection
+  - class imbalance
+  - selection stability
+  - Edge-IIoTset
+  - TON_IoT

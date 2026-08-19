@@ -1,0 +1,11 @@
+type,duplicate_copies,raw_rows,duplicate_fraction
+backdoor,1289,20000,0.06445
+ddos,7,20000,0.00035
+dos,1008,20000,0.0504
+injection,36,20000,0.0018
+mitm,2,1043,0.0019175455417066154
+normal,7960,50000,0.1592
+password,139,20000,0.00695
+ransomware,5265,20000,0.26325
+scanning,0,20000,0.0
+xss,4863,20000,0.24315

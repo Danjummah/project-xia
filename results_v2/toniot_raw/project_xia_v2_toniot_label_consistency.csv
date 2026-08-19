@@ -1,0 +1,11 @@
+type,0,1
+backdoor,0,18711
+ddos,0,19993
+dos,0,18992
+injection,0,19964
+mitm,0,1041
+normal,42040,0
+password,0,19861
+ransomware,0,14735
+scanning,0,20000
+xss,0,15137

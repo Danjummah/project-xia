@@ -1,0 +1,8 @@
+selector,mean_feature_count,mean_pairwise_jaccard,union_feature_count,features_in_all_folds
+CS_SHAP_Union,14.8,0.9130392156862746,17,14
+Full_Controlled,34.0,1.0,34,34
+Mutual_Information_Matched,14.8,0.9358333333333334,16,14
+Natural_Global_Stable,15.0,1.0,15,15
+Random_Forest_Importance_Matched,14.8,0.9358333333333334,16,14
+Stable_Balanced_Core,14.6,0.9349999999999999,16,14
+Stable_Minority_Only,13.6,0.9198214285714286,16,13

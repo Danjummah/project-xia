@@ -1,0 +1,26 @@
+{
+  "source_path": "/kaggle/input/datasets/abdulabdulhafiz1988/ton-iot-network-dataset/train_test_network.csv",
+  "raw_rows": 211043,
+  "controlled_rows": 183560,
+  "duplicates_removed": 20569,
+  "post_exclusion_duplicates_removed": 6914,
+  "raw_predictor_count": 42,
+  "controlled_predictor_count": 34,
+  "excluded_shortcut_fields": [
+    "src_ip",
+    "dst_ip",
+    "dns_query",
+    "http_uri",
+    "http_user_agent",
+    "ssl_subject",
+    "ssl_issuer",
+    "weird_addl"
+  ],
+  "constant_features_removed": [],
+  "outer_folds": 5,
+  "inner_folds": 5,
+  "candidate_k": 15,
+  "recurrence_threshold": 0.8,
+  "rows_after_raw_deduplication": 190474,
+  "audit_correction": "controlled_rows reconciled after post-exclusion deduplication"
+}

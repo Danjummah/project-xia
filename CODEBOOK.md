@@ -1,5 +1,23 @@
 # Artifact codebook
 
+## Version-2 additions
+
+- `notebooks/project_xia_v2_edge_experiments.ipynb`: Edge-IIoTset nested
+  comparators, ablations, and classifier-transfer experiment.
+- `notebooks/project_xia_v2_toniot_external_validation.ipynb`: independently
+  replicated TON_IoT experiment with dataset-specific audit and preprocessing.
+- `results_v2/edge_analysis/`: consolidated Edge results, summaries, per-class
+  metrics, coverage checks, and exact paired comparisons.
+- `results_v2/toniot_analysis/`: corrected TON_IoT audit, summaries, per-class
+  metrics, stability statistics, coverage checks, and paired comparisons.
+- `results_v2/toniot_raw/`: direct Kaggle outputs retained without rewriting.
+- `scripts/analyze_v2_edge_results.py` and `scripts/analyze_v2_toniot_results.py`:
+  validation and summary builders.
+- `scripts/verify_v2_manuscript_values.py`: assertions for principal values
+  reported in the version-2 manuscript.
+- `manuscript/CS_SHAP_V2_Two_Dataset_Manuscript.docx`: revised two-dataset
+  research article associated with release v2.0.0.
+
 | Artifact pattern | Description |
 |---|---|
 | `locked_test_results` | Aggregate performance and timing for each frozen method. |
