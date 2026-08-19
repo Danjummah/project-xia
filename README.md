@@ -1,6 +1,6 @@
 # Project XIA v2
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22003473.svg)](https://doi.org/10.5281/zenodo.22003473)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22018721.svg)](https://doi.org/10.5281/zenodo.22018721)
 
 Reproducibility package for class-sensitive stable SHAP (CS-SHAP) feature
 selection in multiclass IoT/IIoT intrusion detection. Version 2 adds nested
@@ -22,6 +22,9 @@ claim of universally superior accuracy or classifier-independent selection.
   not best with random forest, and weaker with scaled linear logistic regression.
 
 The archived v1 locked-test result remains historical and unchanged.
+
+Version 2 is permanently archived at
+[https://doi.org/10.5281/zenodo.22018721](https://doi.org/10.5281/zenodo.22018721).
 
 ## Contents
 

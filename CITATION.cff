@@ -3,6 +3,7 @@ message: If you use this software, please cite it.
 title: 'Project XIA: Minority-aware stable SHAP feature selection across Edge-IIoTset and TON_IoT'
 version: 2.0.0
 date-released: 2026-08-19
+doi: 10.5281/zenodo.22018721
 type: software
 abstract: >-
   Reproducibility code, notebooks, audit outputs, and derived results for

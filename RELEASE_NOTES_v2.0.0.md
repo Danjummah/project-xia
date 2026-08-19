@@ -35,5 +35,5 @@ detection, or direct train-on-one/test-on-another cross-dataset generalisation.
 ## Previous release
 
 Version 1.0.0 remains archived at https://doi.org/10.5281/zenodo.22003473.
-Zenodo should mint a new DOI for this version after the GitHub v2.0.0 release is
-published.
+Version 2.0.0 is permanently archived at
+https://doi.org/10.5281/zenodo.22018721.
